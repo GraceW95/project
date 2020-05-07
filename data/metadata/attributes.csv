@@ -1,0 +1,39 @@
+fileName,variableName,description,unitText
+individual.csv,uid,Unique ID within NEON database; an identifier for the record,NA
+individual.csv,uid,Unique ID within NEON database; an identifier for the record,NA
+individual.csv,uid,Unique ID within NEON database; an identifier for the record,NA
+individual.csv,uid,Unique ID within NEON database; an identifier for the record,NA
+individual.csv,named_location,NA,NA
+individual.csv,date,"Date or date and time of measurement, observation, or collection event",NA
+individual.csv,date,"Date or date and time of measurement, observation, or collection event",NA
+individual.csv,date,"Date or date and time of measurement, observation, or collection event",NA
+individual.csv,date,"Date or date and time of measurement, observation, or collection event",NA
+individual.csv,event_id,NA,NA
+individual.csv,domain_id,NA,NA
+individual.csv,site_id,NA,NA
+individual.csv,plot_id,NA,NA
+individual.csv,individual_id,NA,NA
+individual.csv,growth_form,NA,NA
+individual.csv,stem_diameter,NA,NA
+individual.csv,measurement_height,NA,NA
+individual.csv,height,Highest point of an individual or average height of a patch,meter
+individual.csv,uid_map,NA,NA
+individual.csv,point_id,NA,NA
+individual.csv,stem_distance,NA,NA
+individual.csv,stem_azimuth,NA,NA
+individual.csv,taxon_id,NA,NA
+individual.csv,scientific_name,NA,NA
+individual.csv,taxon_rank,NA,NA
+individual.csv,uid_ppl,NA,NA
+individual.csv,plot_type,NA,NA
+individual.csv,nlcd_class,NA,NA
+individual.csv,decimal_latitude,NA,NA
+individual.csv,decimal_longitude,NA,NA
+individual.csv,geodetic_datum,NA,NA
+individual.csv,easting,"Geographic coordinate specifying the east-west position of a point on the Earth's surface (Universal Transverse Mercator, UTM)",meter
+individual.csv,northing,"Geographic coordinate specifying the north-south position of a point on the Earth's surface (Universal Transverse Mercator, UTM)",meter
+individual.csv,utm_zone,NA,NA
+individual.csv,elevation,Elevation (in meters) above sea level,meter
+individual.csv,elevation_uncertainty,NA,NA
+individual.csv,stem_lat,NA,NA
+individual.csv,stem_lon,NA,NA
